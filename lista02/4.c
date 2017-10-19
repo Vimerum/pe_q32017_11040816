@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
+//
 float soma (float x, float y) {
 	return (x + y);
 }
