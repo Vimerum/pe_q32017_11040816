@@ -24,8 +24,6 @@ int main ()
 
 	fgets(str, 255, stdin);
 
-	printf("%s\n", str);
-
 	inverter(str);
 
 	printf("%s\n", str);
